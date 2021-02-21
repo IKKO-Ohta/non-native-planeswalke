@@ -21,10 +21,10 @@ This tool shows a following table.
 | Verdict     | Supreme Verdict   | 至高の評決       |
 | Ultimatum     | Cruel Ultimatum   | 残酷な根本原理      |
 
-Although you can't find each word of BNC/COCA in M;tG, it is still helpful to save your time.
+Although you can't find each word of BNC/COCA in MTG, it is still helpful to save your time.
 
 ## license
 
 - All code made by @IKKO-Ohta is released under the MIT license.
-- `non-native-planeswalker` is a fan-content of M;tG and follows [Fan Content Policy](https://company.wizards.com/fancontentpolicy). 
+- `non-native-planeswalker` is a fan-content of MTG and follows [Fan Content Policy](https://company.wizards.com/fancontentpolicy). 
 
